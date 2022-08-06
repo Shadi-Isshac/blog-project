@@ -1,0 +1,18 @@
+{
+    "blogs": [
+        {
+        "title": "My first blog!", 
+        "body": "Welcome!", 
+        "author": "Shadi", 
+        "id": 1
+    },
+    {
+        "title": "Great to be apart of this Community!", 
+        "body": "Oi!", 
+        "author": "Anon", 
+        "id": 2
+        }
+    ]
+}
+
+        
