@@ -1,16 +1,16 @@
 {
   "blogs": [
     {
-      "title": "My first blog!",
-      "body": "Welcome!",
-      "author": "Shadi",
-      "id": 1
-    },
-    {
       "title": "Great to be apart of this Community!",
       "body": "Oi!",
       "author": "Meowzers",
       "id": 2
+    },
+    {
+      "title": "Welcome!",
+      "body": "Thanks for visiting my blog!",
+      "author": "Shadi",
+      "id": 3
     }
   ]
 }
